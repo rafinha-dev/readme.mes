@@ -32,4 +32,7 @@ Hoje, faço o bootcamp da Driven e aprendi muito mais do que eu acreditava ser p
 <a href="https://www.linkedin.com/in/rafinhadev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/rafinha_dev/" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://codepen.io/rafinha-dev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-CodePen-808080?style=for-the-badge&logo=CodePen&logoColor=white"></a>
+<a href="https://dev.to/rafinhadev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Blog_dev.to-808080?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://hashnode.com/@rafinhadev" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Blog_Hashnode-808080?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+	
 </p>
