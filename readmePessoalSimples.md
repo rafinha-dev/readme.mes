@@ -1,17 +1,19 @@
-
 <h1 align="center">Olá  <img src="https://media3.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif?cid=ecf05e47paay6b31bbe5z0nvmk1ix8xds7p6l59rhhy7x9l6&rid=giphy.gif&ct=g" width="40px"/>, eu sou Rafael </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fd428d&center=true&vCenter=true&width=1000&lines=Dev+front+end+em+forma%C3%A7%C3%A3o;adoro+um+css+gourmet)](https://git.io/typing-svg)
 
-<img align="left" src="https://github.com/rafinha-dev/readme.mes/blob/master/download20221200205038.png" width="320px"> Enquanto eu fazia mestrado em Tecnologia e Sociedade na UTFPR, participei de eventos sobre a presença de mulheres na área tech e fiquei cada vez mais interessada em fazer uma transição de carreira para T.I. Minha formação inicial foi em Letras e eu atuei como professora de português no Ensino Médio por mais de 8 anos. Comecei a transição em julho de 2022 e foi a melhor decisão que já tomei. 
-Hoje, faço o bootcamp da Driven e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo. Minha meta é me firmar como uma desenvolvedora de sucesso e criar ferramentas para conectar mulheres que também querem entrar para a área tech, mas não sabem como fazer isso. 
+<img align="left" src="https://github.com/rafinha-dev/readme.mes/blob/master/download20221200205038.png" width="320px">
+<p>Estudo front-end e faço pequenos projetos web, tenho vontade de empreende com tecnologia e estou em busca da minha vaga como dev front-end junior. Sou aluno do dev quest, prog-br e constantemente estou presente fazendo lives no discord. Criei meu blog a fim de disseminar conhecimento em tecnologia resolver problemas maiores a medida que melhoro meus conhecimentos, algumas postagens publico na minha newsletter do linkedin que criei para buscar pessoas cheias de ideias assim como eu. 
+Contrubuo com a comunidade de software livre como a debian em mg, adoro mecher em sistemas operacionais e testar. Eu sou muito empolgado e cheio de criatividade, então as vezes preciso me puxar para o chao com tantas ideias rs. Eu fui ator e músico e agora estou na area de TI.
+Meu primeiro objetivo é conseguir minha vaga de front, me aprimorar e me tornar full stack e com conhecimento de back-end investir em conhecer mais sobre ciber security.
+Com meu conhecimento de front-end planejo criar templates para vender, e comercializar infoprodutos na internet e web aplicações que geram renda passiva.</p>
 
 **********
 <div align="left">
-🌱 Atualmente, estou aprendendo <strong>SQL com Postgres</strong><br>
-💬 Posso responder perguntas sobre <strong>JavaScript, React, Nodejs e Mongodb</strong><br>
-⚡ Fun fact <strong>sou a mãe orgulhosa de 4 gatos</strong></h4> 
+🌱 Ａｔｕａｌｍｅｎｔｅ, ｅｓｔｏｕ ａｐｒｅｎｄｅｎｄｏ ｉｎｔｅｇｒａçãｏ ｄｅ ＡＰＩ ｖｏｕ ｉｎｉｃｉａｒ<strong> Ｊｅｓｔ</strong> ｅ <strong> ｒｅａｃｔ<strong><br>
+💬 Posso responder perguntas sobre <strong>JavaScript, HTML, CSS , Java-script </strong> <br>mas sinta-se a vontade para perguntar sobre musica e teatro<br>
 </div>
+<!--  https://psfonttk.com/letras-diferentes-para-nick/-->
 
 ***************	
 
